@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @githubfaisal20
-- 👀 I’m interested in  python devloper 
+- 👀 I’m interested in  Web Development
 - 🌱 I’m currently learning full stage devloping ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me officialfaisal2003@gmail.com
